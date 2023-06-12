@@ -1,0 +1,15 @@
+Library/
+Temp/
+Logs/
+UserSettings/
+obj/
+.vs/
+Packages/
+Assets/Resources/LargeFile/
+Assets/Mirror/
+Assets/TextMesh\Pro/
+*.sln
+*.csproj
+*.userprefs
+*.unityproj
+*.DS_Store
